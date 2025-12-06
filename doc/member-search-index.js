@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"LibraryManager","l":"LibraryManager(String, boolean, int)","u":"%3Cinit%3E(java.lang.String,boolean,int)"},{"p":"<Unnamed>","c":"LibraryManager","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"LibraryManager","l":"SetupUI(String, boolean)","u":"SetupUI(java.lang.String,boolean)"}];updateSearchResults();
